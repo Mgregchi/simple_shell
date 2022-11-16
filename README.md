@@ -28,21 +28,21 @@
 
 - Who invented the B programming language (the direct predecessor to the C programming language)
 
-- Who is Ken Thompson
+- Who is Ken Thompson?
 
-- How does a shell work
+- How does a shell work!
 
-- What is a pid and a ppid
+- What is a pid and a ppid?
 
 - How to manipulate the environment of the current process
 
-- What is the difference between a function and a system call
+- What is the difference between a function and a system call?
 
 - How to create processes
 
-- What are the three prototypes of main
+- What are the three prototypes of main?
 
-- How does the shell use the PATH to find the programs
+- How does the shell use the PATH to find the programs?
 
 - How to execute another program with the execve system call
 
